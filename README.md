@@ -1,3 +1,1 @@
 # Project Info
-
-This project
